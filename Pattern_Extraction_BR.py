@@ -27,8 +27,8 @@ import gc
 
 DATABASE_HOST = "localhost"
 PORT = 3306
-USERNAME = "root"
-PASSWORD = "htvgt794jj"
+USERNAME = "NA"
+PASSWORD = "NA"
 
 def Extract_Zone_Events_BR(zone):
 		
