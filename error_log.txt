@@ -1,0 +1,14 @@
+Stopped for 177 at pattern length 4; Probability count: 31924494
+Stopped for 95 at pattern length 5; Probability count: 0
+Stopped for 161 at pattern length 6; Probability count: 0
+Stopped for 127 at pattern length 5; Probability count: 0
+Stopped for 108 at pattern length 6; Probability count: 0
+Stopped for 204 at pattern length 5; Probability count: 0
+Stopped for 128 at pattern length 5; Probability count: 0
+Stopped for 207 at pattern length 5; Probability count: 0
+Stopped for 27 at pattern length 5; Probability count: 0
+Stopped for 178 at pattern length 5; Probability count: 0
+Stopped for 111 at pattern length 5; Probability count: 0
+Stopped for 202 at pattern length 5; Probability count: 0
+Stopped for 126 at pattern length 5; Probability count: 0
+Stopped for 2 at pattern length 5; Probability count: 0
